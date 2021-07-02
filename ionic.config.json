@@ -1,0 +1,7 @@
+{
+  "name": "ionic-react-tab-switch",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
