@@ -3,7 +3,7 @@ An example of a custom switching tab bar in Ionic React
 <br />
 If you'd like to support, you can <a className="link" href="https://www.buymeacoffee.com/ionicreacthub" target="_blank" rel="noopener">buy me a coffee</a> ☕️
 
-![Ionic React Switch Tabs](https://repository-images.githubusercontent.com/380007740/24739d00-d562-11eb-93d9-c0926e58bb48)
+![Ionic React Switch Tabs](https://repository-images.githubusercontent.com/382495618/501a0700-dba2-11eb-8080-ed9e173198e0)
 
 ### Included in this Ionic React Template/UI
 * Ionic Animations
